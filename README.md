@@ -1,5 +1,5 @@
 # Four-card-feature-section
-Chalenge from Frontend Mentor. I doing this for two days, but I did it ;) I'm still practise flex and this project helps me to understand few things.
+Chalenge from Frontend Mentor. I have doing this for two days, but I did it ;) I'm still practise flex and this project helps me to understand few things.
 
 https://magsaram.github.io/Four-card-feature-section/
 
